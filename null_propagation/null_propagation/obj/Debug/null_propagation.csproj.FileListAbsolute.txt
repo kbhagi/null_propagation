@@ -1,0 +1,6 @@
+C:\Projects\null_propagation\null_propagation\bin\Debug\null_propagation.exe.config
+C:\Projects\null_propagation\null_propagation\bin\Debug\null_propagation.exe
+C:\Projects\null_propagation\null_propagation\bin\Debug\null_propagation.pdb
+C:\Projects\null_propagation\null_propagation\obj\Debug\null_propagation.csprojResolveAssemblyReference.cache
+C:\Projects\null_propagation\null_propagation\obj\Debug\null_propagation.exe
+C:\Projects\null_propagation\null_propagation\obj\Debug\null_propagation.pdb
